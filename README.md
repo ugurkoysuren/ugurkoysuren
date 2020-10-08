@@ -2,14 +2,13 @@ I am Ugur, a passionate and creative developer from Istanbul with a strong inter
  
 I mostly work with Java and Cloud-Native technologies
 
-* 💼   Founder @Frime.
 * 💻   Clean coding, Algorithms, Cloud Solutions
 * ⛵   Encouraging people for open source collaborations.
 * ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://ugurkoysuren.com/)
   
 <hr>
 <p align="center">
-  <i>Take a look at my repositories and let's get in touch!</i>
+  <i>Let's get in touch!</i>
 
 <p align="center">
 <a href= "https://github.com/ugurkoysuren/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
